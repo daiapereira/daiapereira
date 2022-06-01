@@ -1,0 +1,6 @@
+- # sobre mim
+- 
+-   👋 olá meu nome é @daiapereira
+-   👍 meu email de contato é daiane.pereira.luz@escola.pr.gov.br
+- 👀 eu estou interessada em aprender a programar novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagen de JavaScript e Scratch
