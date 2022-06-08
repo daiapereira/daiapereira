@@ -1,4 +1,4 @@
-- # sobre mim
+- # Sobre mim
 - 
 -   👋 olá meu nome é @daiapereira
 -   👍 meu email de contato é [email](daiane.pereira.luz@escola.pr.gov.br)
